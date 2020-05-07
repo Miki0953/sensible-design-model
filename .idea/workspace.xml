@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="262bddb4-bd53-434d-8f26-48ad327fb832" name="Default Changelist" comment="" />
+    <list default="true" id="262bddb4-bd53-434d-8f26-48ad327fb832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/AbstractCarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/AudiCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/BmwCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/factory/MercedesBenChi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sensible/test/FactoryTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bWdKBl75OFjob1urFHM6gZjZr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,6 +54,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Sensible\project\learning\sensible-design-model" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588751716558</updated>
       <workItem from="1588751720511" duration="3453000" />
-      <workItem from="1588812591186" duration="897000" />
+      <workItem from="1588812591186" duration="1715000" />
     </task>
     <servers />
   </component>
